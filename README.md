@@ -10,13 +10,21 @@ Data preprocessing, training and tuning model in jupyter [Determining_the_cost_o
 
 ## Running the model locally in fastapi
 1. Activate the environment and install dependencies
-```source /path/to/venv/bin/activate
-pip install -r requirements.txt```
+```
+source /path/to/venv/bin/activate
+pip install -r requirements.txt
+```
 2. Launch the service
-```uvicorn main:app --reload```
+```
+uvicorn main:app --reload
+```
 
 ## Deployment with Docker
 1. Build the Docker image
-```docker build -t ml_api .```
-2. Running the Docker image
-```docker run -d -p 8000:8000 ml_api```
+```
+docker build -t ml_api .
+```
+3. Running the Docker image
+```
+docker run -d -p 8000:8000 ml_api
+```
