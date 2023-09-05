@@ -1,6 +1,6 @@
 # ML_Determining_the_cost_of_cars
 This project is an example of the application of machine learning to determine the value of used cars. 
-
+The best trained model was  on data from the auto.csv dataset, and then integrated in Api using FastAPI. The web application was packaged in a Docker container.
 ## Requirements:
 * Python 3.10+
 
