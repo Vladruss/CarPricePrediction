@@ -1,4 +1,4 @@
-## Описание данных
+## Data description
 * DateCrawled — дата скачивания анкеты из базы
 * VehicleType — тип автомобильного кузова
 * RegistrationYear — год регистрации автомобиля
