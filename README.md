@@ -6,7 +6,7 @@ The best trained model was integrated in Api using FastAPI. The web application 
 * Python 3.10+
 
 ## Training and tuning models
-Data preprocessing, training and tuning model in jupyter [Determining_the_cost_of_cars.ipynb](https://github.com/Vladruss/ML_Determining_the_cost_of_cars/blob/main/Determining_the_cost_of_cars.ipynb)
+Data preprocessing, training and tuning model in jupyter [Car_price_prediction.ipynb](https://github.com/Vladruss/ML_Determining_the_cost_of_cars/blob/main/Determining_the_cost_of_cars.ipynb)
 
 ## Running the model locally in fastapi
 1. Activate the environment and install dependencies
