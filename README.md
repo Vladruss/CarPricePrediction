@@ -1,4 +1,4 @@
-# ML_Determining_the_cost_of_cars
+# Car Price Prediction
 This project is an example of the application of machine learning to determine the value of used cars. 
 The best trained model was integrated in Api using FastAPI. The web application was packaged in a Docker container.
 
